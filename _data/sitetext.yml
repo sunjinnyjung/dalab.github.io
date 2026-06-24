@@ -43,6 +43,11 @@ en: &DEFAULT_EN
         image: assets/img/team/JinseonYang.jpg
         email: 20231145@sungshin.ac.kr
         leader: "🌜Head Student🌛"
+        
+      - name: "Nuri Kim"
+        role: "B.S. Student | Undergraduate Researcher"
+        image: assets/img/team/NuriKim.jpg
+        email: 20251004@sungshin.ac.kr
             
   publications:
     title: "Publications"
