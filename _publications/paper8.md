@@ -2,7 +2,7 @@
 caption:
   title: "Deep-Learning-Based Facial Retargeting Using Local Patches"
   subtitle: |
-    Computer Graphics Forum (CGF)<br>
+    <br>Computer Graphics Forum (CGF)<br>
     Eurographics 2025
   thumbnail: assets/img/publications/2025_CGF_th.png
 
@@ -10,7 +10,8 @@ caption:
 title: |
   Deep-Learning-Based Facial Retargeting Using Local Patches
 authors: |
-  Yeonsoo Choi\*, Inyup Lee\*, Sihun Cha, Seonghyeon Kim, Sunjin Jung, Junyong Noh
+  Yeonsoo Choi\*, Inyup Lee\*, Sihun Cha, Seonghyeon Kim, Sunjin Jung, Junyong Noh<br>
+  <i>\* Equal contribution</i>
 journal: "Computer Graphics Forum (CGF), Volume 44, Issue 1, February 2025"
 conference: "Eurographics 2025"
 paper_url: "https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.15263"

@@ -2,15 +2,16 @@
 caption:
   title: "SketchiMo: Sketch-based Motion Editing for Articulated Characters"
   subtitle: |
-    ACM Transactions on Graphics (TOG)
+    <br>ACM Transactions on Graphics (TOG)
     SIGGRAPH 2016
   thumbnail: assets/img/publications/2016_TOG_th.png
 
 
 title: "SketchiMo: Sketch-based Motion Editing for Articulated Characters"
 authors: |
-  Byungkuk Choi, Roger Blanco i Ribera, J.P. Lewis, Yeongho Seol, Seokpyo Hong, Haegwang Eom, 
-  <br>Sunjin Jung, Junyong Noh
+  Byungkuk Choi\*, Roger Blanco i Ribera\*, J.P. Lewis, Yeongho Seol, Seokpyo Hong, Haegwang Eom, 
+  <br>Sunjin Jung, Junyong Noh<br>
+  <i>\* Equal contribution</i>
 journal: "ACM Transactions on Graphics, Volume 35, Issue 4, p.146:1-146:12, July 2016"
 conference: "SIGGRAPH 2016"
 paper_url: "https://dl.acm.org/doi/10.1145/2897824.2925970"

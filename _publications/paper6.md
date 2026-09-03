@@ -2,7 +2,7 @@
 caption:
   title: "Audio-Driven Speech Animation with Text-Guided Expression"
   subtitle: |
-    Pacific Graphics (PG) 2024<br>🏆 Best Paper Award
+    <br>Pacific Graphics (PG) 2024<br>🏆 Best Paper Award
   thumbnail: assets/img/publications/2024_PG_th.png
 
 

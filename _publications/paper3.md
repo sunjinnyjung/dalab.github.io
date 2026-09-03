@@ -8,7 +8,8 @@ caption:
 
 title: "Synthesizing Character Animation with Smoothly Decomposed Motion Layers"
 authors: |
-  Haegwang Eom, Byungkuk Choi, Kyungmin Cho, Sunjin Jung, Seokpyo Hong, Junyong Noh
+  Haegwang Eom\*, Byungkuk Choi\*, Kyungmin Cho, Sunjin Jung, Seokpyo Hong, Junyong Noh<br>
+  <i>\* Equal contribution</i>
 journal: "Computer Graphics Forum (CGF), Volume 39, Issue 1, February 2020"
 conference: "Eurographics 2020"
 paper_url: "https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13893"
